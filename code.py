@@ -7,7 +7,7 @@ import mysql.connector as sql
 import pymongo
 from googleapiclient.discovery import build
 from PIL import Image
-
+ 
 
 
 # SETTING PAGE CONFIGURATIONS
